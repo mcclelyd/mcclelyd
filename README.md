@@ -1,7 +1,7 @@
 - 👋 Hi, my name is Lydia McCleary.
 - 📚 I am a sophmore at Iowa State University.
 - 💻 Software Engineering Major.
-- 👀 I’m interested in Web and Application Development.
+- 👀 I’m interested in Web & Application Development and Embedded Systems.
 - 🌱 I’m currently learning Data Structures & Algorithms and OOP. 
 - 📫 You can reach me via email at lydiam@iastate.edu.
 - 🌈 Pronouns: she/her/hers
