@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning about Assembly Language, Database Management, and Discrete Mathematics. 
 - 📫 You can reach me via email at lydiam@iastate.edu.
 - 🌈 Pronouns: she/her/hers
-- ⚡ When I'm not coding I like to...read, be outdoors, go to concerts, and take photos!
+- ⚡ When I'm not coding I like to...read, be outdoors, and go to concerts!
 
 <!---
 mcclelyd/mcclelyd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
