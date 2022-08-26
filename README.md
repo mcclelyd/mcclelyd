@@ -2,7 +2,7 @@
 - 📚 I am a junior at Iowa State University.
 - 💻 Software Engineering Major.
 - 🧠 I’m interested in learning more about Big Data & Cloud Computing!
-- 🌱 I’m currently learning about Assembly Language, Database Management, and Discrete Mathematics. 
+- 🌱 I’m currently learning about Assembly Language, Software Architecture, Database Management, and Discrete Mathematics. 
 - 📫 You can reach me via email at lydiam@iastate.edu.
 - 🌈 Pronouns: she/her/hers
 - ⚡ When I'm not coding I like to...read, be outdoors, and go to concerts!
