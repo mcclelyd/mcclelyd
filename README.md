@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning about Assembly Language, Software Architecture, Database Management, and Discrete Mathematics. 
 - 📫 You can reach me via email at mcclelyd@gmail.com.
 - 🌈 Pronouns: she/her/hers
-- ⚡ When I'm not coding I like to...read, be outdoors, and go to concerts!
+- ⚡ When I'm not coding I like to...workout, hangout with my cat, be outdoors, and go to concerts!
 
 <!---
 mcclelyd/mcclelyd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
