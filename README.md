@@ -1,12 +1,12 @@
 - 👋 Hi, my name is Lydia McCleary.
-- 📚 I am a junior at Iowa State University.
+- 📚 I am a Senior at Iowa State University.
 - 💻 Software Engineering Major.
 - 🧠 I’m interested in learning more about Big Data & Cloud Computing!
-- 🌱 I’m currently learning about Algorithm Analysis, Software Maintenance & Evolution, and Operating Systems. 
+- 🌱 I’m currently learning about Network Protocols, Software Analysis & Verification, and working on my Senior Design Project! 
 - 📫 You can reach me via email at mcclelyd@gmail.com.
 - 🌈 Pronouns: she/her/hers
-- ⚡ When I'm not coding I like to...workout, hangout with my cat, be outdoors, and go to concerts!
-- 👩‍💻 Incoming Oracle Cloud Infrastructure SWE Intern for Summer 2023
+- ⚡ When I'm not coding I like to...workout, spend time with friends (and my cat), and go to concerts!
+- 👩‍💻 Oracle Cloud Infrastructure SWE Intern - Summer 2023
 
 <!---
 mcclelyd/mcclelyd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
