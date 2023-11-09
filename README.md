@@ -6,8 +6,7 @@
 - 📫 You can reach me via email at mcclelyd@gmail.com.
 - 🌈 Pronouns: she/her/hers
 - ⚡ When I'm not coding I like to...workout, spend time with friends (and my cat), and go to concerts!
-- 👩‍💻 Oracle Cloud Infrastructure SWE Intern - Summer 2023
-
+- 👩‍💻 Incoming SWE @ Oracle Cloud Infrastructure - Summer 2024
 <!---
 mcclelyd/mcclelyd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
