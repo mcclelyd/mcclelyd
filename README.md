@@ -3,7 +3,6 @@
 - 💻 Software Engineering Major.
 - 🧠 I’m interested in learning more about Big Data & Cloud Computing!
 - 🌱 I’m currently learning about Networking + Data Communications and Large Scale Data Analysis! 
-- 📫 You can reach me via email at mcclelyd@gmail.com.
 - 🌈 Pronouns: she/her/hers
 - ⚡ When I'm not coding I like to...workout, spend time with friends (and my cat), and go to concerts!
 - 👩‍💻 Incoming SWE @ Oracle ☁ - Summer 2024
